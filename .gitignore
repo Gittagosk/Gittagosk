@@ -3,6 +3,11 @@
 venv/
 ENV/
 
+# Specific files to ignore
+flashcards_app.py
+git_guide.md
+*.pdf
+
 # Python cache files
 __pycache__/
 *.py[cod]
